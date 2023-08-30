@@ -73,6 +73,7 @@
 		e.preventDefault();
 		var form = document.querySelector("#formElem");
 		const d = new Date();
+		d=d.toDateString();
 		fetch("https://script.google.com/macros/s/AKfycbwVeph5eTSGv0A4qQuv5wbzbrcUmA_POBHzDWankRD8leV1NKLmy_25l6w_X0C7PJpjzQ/exec?action=adduser", {
 				method: "POST",
 				
