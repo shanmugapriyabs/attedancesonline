@@ -104,7 +104,78 @@ const questions = [
         optionC: "18.20",
         optionD: "88.25",
         correctOption: "optionA"
+    },
+    {
+        question: " By selling a book for Rs 258, a bookseller gains 20%. For how much should he sell it to gain 30%?",
+        optionA: "245",
+        optionB: "290",
+        optionC: "276.89",
+        optionD: "279.50",
+        correctOption: "optionD"
+    },
+
+    {
+        question: "A defective briefcase costing Rs 800 is being sold at a loss of 8%. If the price is further reduced by 5%, find its selling price.",
+        optionA: "699.2",
+        optionB: "790.078",
+        optionC: "800.98",
+        optionD: "799",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "A man sells an article at a profit of 25%. If he had bought it at 20% less and sold it for Rs 36.75 less, he would have gained 30%. Find the cost price of the article.",
+        optionA: "165",
+        optionB: "200",
+        optionC: "175",
+        optionD: "245",
+        correctOption: "optionC"
+    },
+
+    {
+        question: "A dishonest shopkeeper professes to sell pulses at his cost price but uses a false weight of 950 gm for each kilogram. Find his gain percent.",
+        optionA: "5.263%",
+        optionB: "5.467%",
+        optionC: "5.387%",
+        optionD: "5.478%",
+        correctOption: "optionA"
+    },
+    {
+        question: "A dealer bought two tables for Rs 3120. He sold one of them at loss of 15% and other at a gain of 36%. Then, he found that each table was sold for the same price. Find the cost price of each table.",
+        optionA: "1920",
+        optionB: "1870",
+        optionC: "1900",
+        optionD: "2000",
+        correctOption: "optionA"
+    },
+
+    {
+        question: " Mariam bought two fans for Rs 3605. She sold one at a profit of 15% and the other at a loss of 9%. If Mariam obtained the same amount for each fan, find the cost price of each fan.",
+        optionA: "2012.50",
+        optionB: "3000.23",
+        optionC: "2009.29",
+        optionD: "2234.89",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "A tricycle is sold at a gain of 16%. Had it been sold for Rs 100 more, the gain would have been 20%. Find the C.P. of the tricycle.",
+        optionA: "2600",
+        optionB: "2578",
+        optionC: "2500",
+        optionD: "3000",
+        correctOption: "optionC"
+    },
+
+    {
+        question: "Toshiba bought 100 hens for Rs 8000 and sold 20 of these at a gain of 5%. At what gain percent she must sell the remaining hens so as to gain 20% on the whole?",
+        optionA: "Toshiba require 23.75% gain on the remaining hens (80hens)",
+        optionB: "Toshiba require 22.55% loss on the remaining hens (80hens)",
+        optionC: "Toshiba require 20.75% gain on the remaining hens (80hens)",
+        optionD: "Toshiba require 23.75% loss on the remaining hens (80hens)",
+        correctOption: "optionA"
     }
+
     
    
 
